@@ -1,0 +1,9 @@
+POST http://localhost:5000/api/tasks HTTP/1.1
+Content-Type: application/json
+
+{
+    "authorId": "651d91a6dfbf05a3adbfd45d",
+    "body": "First todo",
+    "deadline": "2023-10-10",
+    "status": "done"
+}

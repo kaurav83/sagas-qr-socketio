@@ -1,0 +1,36 @@
+.status-done {
+    color: green
+}
+
+.status-proccess{ 
+    color: blue
+}
+
+.sttaus-failed {
+    color: red
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    border-bottom: 1px solid black;
+    margin: 10px;
+    padding-bottom: 5px;
+}
+
+span {
+    width: 100px;
+    word-wrap: break-word;
+}
+
+@media screen and (max-width: 500px) {
+    .item {
+        flex-direction: column;
+    }
+
+    span {
+        margin: 3px;
+    }
+}

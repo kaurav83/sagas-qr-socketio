@@ -1,0 +1,2 @@
+DELETE http://localhost:5000/api/tasks/65258e615a4dfa6302aa7945 HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NTFkOTFhNmRmYmYwNWEzYWRiZmQ0NWQiLCJlbWFpbCI6InBvdHRlckBnbWFpbC5jb20iLCJpYXQiOjE2OTcwMzcyMTgsImV4cCI6MTY5NzAzNzI3OH0.alwhS7JGutoNWBhpsfLqecfdX0-3jgpiWTc7MacMR4M
